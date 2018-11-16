@@ -1,3 +1,10 @@
+## Deprecated
+
+
+moved to https://github.com/signatrix/provisioning
+
+
+
 # Installing Openvino on Ubuntu 18.04
 
 As of November 2018 Intel's Openvino Toolkit does not officially support ubuntu 18.04. Some simple hacks make it possible to install it however.
